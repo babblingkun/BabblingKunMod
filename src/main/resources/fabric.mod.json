@@ -3,7 +3,7 @@
 	"id": "babblingkun",
 	"version": "1.3",
 	"name": "BabblingKun",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This mod is a mod that the perverted BabblingKun is making while horny!",
 	"authors": [
 		"BabblingKun"
 	],
@@ -11,7 +11,7 @@
 		"homepage": "https://babblingkun.gay/",
 		"sources": "https://github.com/babblingkun/BabblingKunMod"
 	},
-	"license": "CC0-1.0",
+	"license": "Unlicense",
 	"icon": "assets/babblingkun/icon.png",
 	"environment": "*",
 	"entrypoints": {
