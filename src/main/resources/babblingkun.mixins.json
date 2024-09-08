@@ -3,7 +3,7 @@
 	"package": "gay.babblingkun.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"BabblingKunMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
